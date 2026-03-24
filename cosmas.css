@@ -6,6 +6,8 @@
   box-sizing: border-box;
   padding: 0px;
   margin: 0px;
+  border: none;
+
 }
 
 .body-container{
@@ -14,7 +16,6 @@
   max-width: 1200px;
   margin: 0px auto;
   gap: 20px;
-  border: none;
   height: 100vh ;
   font-size: 1.4em;
   font-family: sans-serif,Arial, Helvetica;
@@ -73,7 +74,7 @@ img {
   height: 550px;
   margin: 0 auto;
   object-fit: cover;
-  border-radius:200px;
+  border-radius:210px;
 }
 
 @media (max-width: 768px) {
